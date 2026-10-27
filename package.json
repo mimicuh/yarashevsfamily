@@ -1,5 +1,5 @@
 {
-  "name": "shajara",
+  "name": "yarashevsfamily",
   "private": true,
   "scripts": {
     "build": "python3 build.py",
